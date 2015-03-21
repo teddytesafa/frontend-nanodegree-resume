@@ -1,1 +1,1 @@
-$("main").append(Teddy Belay)
+$("main").append("Teddy Belay")
