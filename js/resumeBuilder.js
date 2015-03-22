@@ -1,1 +1,2 @@
-$("main").append("Teddy Belay")
+var firstname="Teddy";
+console.log(firstname);
